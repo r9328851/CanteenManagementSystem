@@ -3,11 +3,11 @@ It might have happened so many times that we cannot really go out and buy food o
 
 Almost every canteen and restaurant need such application in order to give convenience to their customers to let them select the items as per their wish and place the order from wherever they want which is effective and efficient.
 
-# • It will provide fast services to their customers. Usually what happened is people must go to the canteen and order the food items, they must wait in a queue for a long time to get their orders. 
-# • It will provide a list of different items in the menu list with two different categories. User can select any item from the canteen and can order it online. 
-# • Users should be able to login with the valid username and password. Users need to enter the username and password to place their order. Also, security is equally important in the system.
-# • A user will be able to edit the order. Here, users will be able to add, delete, edit and clear the food items from their order.
-# • It provides an easy user interface. The food items details will be their including the ID, name and price.
+• It will provide fast services to their customers. Usually what happened is people must go to the canteen and order the food items, they must wait in a queue for a long time to get their orders. 
+• It will provide a list of different items in the menu list with two different categories. User can select any item from the canteen and can order it online. 
+• Users should be able to login with the valid username and password. Users need to enter the username and password to place their order. Also, security is equally important in the system.
+• A user will be able to edit the order. Here, users will be able to add, delete, edit and clear the food items from their order.
+• It provides an easy user interface. The food items details will be their including the ID, name and price.
 
 ## Version 1.0 is a maven project works by using maven commands.
 
