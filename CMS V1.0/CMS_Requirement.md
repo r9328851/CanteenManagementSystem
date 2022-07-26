@@ -22,11 +22,11 @@ We need to build a canteen management application.  This is an application,
    * Customer can view his personal detail and order history.
 	* can view the order request from customers.
 	* can accept or deny the entire order.
- * customer details (custId, custName, etc..) are stored along with their wallet balance.
- * Customer can place their order in this portal. These orders go to the food vendor.
- * Food Vendor can accept/deny the order with proper comments.
- * Wallet balance should not go negative.
- * Customer can view their order status.
+   * customer details (custId, custName, etc..) are stored along with their wallet balance.
+   * Customer can place their order in this portal. These orders go to the food vendor.
+   * Food Vendor can accept/deny the order with proper comments.
+   * Wallet balance should not go negative.
+   * Customer can view their order status.
 
 # Application flow
 The skeletal application contains a simple screen with list of options (Menu).
