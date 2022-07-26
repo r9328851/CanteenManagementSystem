@@ -152,6 +152,7 @@ public class DB {
         } catch(SQLException e){
 			e.printStackTrace();
         }
+		
         dbClose();
         return f;
 	}
